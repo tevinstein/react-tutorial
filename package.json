@@ -1,0 +1,23 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevinstein/react-tutorial.git"
+  },
+  "author": "tevin <tevinsa@yahoo.com> (www.github.com/tevinstein)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tevinstein/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/tevinstein/react-tutorial#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
